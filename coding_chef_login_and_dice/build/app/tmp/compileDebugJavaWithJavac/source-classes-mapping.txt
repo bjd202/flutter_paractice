@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/coding_chef_login_and_dice/MainActivity.java
+ com.example.coding_chef_login_and_dice.MainActivity
+com/example/coding_chef_login_and_dice/BuildConfig.java
+ com.example.coding_chef_login_and_dice.BuildConfig
